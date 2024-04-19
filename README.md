@@ -1,4 +1,5 @@
 Hola! Soy Ezequiel!, un apasionado desarrollador de software. 🚀
+
 Mi enfoque principal radica en combinar mi profundo conocimiento técnico con una creatividad inagotable para diseñar y desarrollar aplicaciones.
 Me considero un solucionador de problemas entusiasta, siempre buscando nuevas formas de abordar desafíos y superar obstáculos.
 
