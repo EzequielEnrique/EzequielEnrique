@@ -1,4 +1,4 @@
-Hola! Soy Ezequiel 🚀
+Hola! Soy Ezequiel 
 
 Me considero un solucionador de problemas, siempre buscando nuevas formas de abordar desafíos y superar obstáculos.
 
