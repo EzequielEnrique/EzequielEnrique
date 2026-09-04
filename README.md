@@ -1,10 +1,8 @@
-Hola! Soy Ezequiel 
+Buenas, mi nombe es Ezequiel 
 
-Me considero un solucionador de problemas, siempre buscando nuevas formas de abordar desafíos y superar obstáculos.
-
-Mis habilidades incluyen dominio de lenguajes de programación como JavaScript, CSS, HTML, C#, PHP, entre otros;
-así como conocimientos sólidos en bases de datos, seguridad informática y desarrollo ágil.
+Mis habilidades incluyen dominio de lenguajes de programación como JavaScript, CSS, HTML, C#, PHP, entre otros; 
+así como conocimientos sólidos en bases de datos, desarrollo de software y administración.
 
 Siempre estoy buscando oportunidades para seguir aprendiendo y creciendo profesionalmente.
 
-Gracias por ver mi perfil! 🤠
+Gracias por ver mi perfil 🤠
