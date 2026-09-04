@@ -1,4 +1,4 @@
-Buenas, mi nombe es Ezequiel 
+Buenas, mi nombre es Ezequiel
 
 Mis habilidades incluyen dominio de lenguajes de programación como JavaScript, CSS, HTML, C#, PHP, entre otros; 
 así como conocimientos sólidos en bases de datos, desarrollo de software y administración.
